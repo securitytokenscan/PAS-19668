@@ -1,0 +1,56 @@
+{
+  "IssuerDisclosures": {
+    "IssuerIndustryClassification": "",
+    "IssuerContactDetails": "",
+    "IssuerNewsFeed": "",
+    "IssuerIncorporationDocument": "",
+    "IssuerOfferingDocument": "",
+    "IssuerAccountInformation": "",
+    "IssuerJurisdiction": "",
+    "IssuerName": ""
+  },
+  "SecurityTokenLocation": {
+    "STBlockchainLocation": "",
+    "STBlockchainUniqueAssetIdentifier": "",
+    "STIdentificationNumber": "",
+    "STBlockchain": ""
+  },
+  "IssuerAssetDisclosures": {
+    "STTotalSupply": "",
+    "STNumberOfDecimalPlaces": "",
+    "STAssetInvestmentProfile": "",
+    "STMarkets": [],
+    "STPriceDetermination": "",
+    "AssetBacking": "",
+    "AssetCustodianship": "",
+    "AssetCustodian": ""
+  },
+  "EligibleInvestorClassification": {
+    "RestrictedCountriesList": [],
+    "EligibleInvestorCountryClassification": [
+      {
+        "Country": "",
+        "InvestorClassification": ""
+      }
+    ]
+  },
+  "SecurityTokenTechnicalProperties": {
+    "BlockChainArchitecture": "",
+    "ProgrammingOfSecurityToken": "",
+    "SecurityTokenTransferVerificationLogic": "",
+    "IncomeProperties": "",
+    "VotingProperties": "",
+    "SecurityProcedures": [],
+    "DelegatedRegister": ""
+  },
+  "KYCAMLRequirements": {
+    "IdentityDocuments": "",
+    "ComplianceRequirements": ""
+  },
+  "CustomProperties": [
+    {
+      "key": "",
+      "value": ""
+    }
+  ]
+}
